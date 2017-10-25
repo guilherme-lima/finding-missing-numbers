@@ -1,0 +1,18 @@
+datasource:
+    dbBr:
+        url: jdbc:h2:mem:ds1
+        username:
+        password:
+        driver-class-name: org.h2.Driver
+
+    dbAr:
+        url: jdbc:h2:mem:ds2
+        username:
+        password:
+        driver-class-name: org.h2.Driver
+
+    dbMx:
+        url: jdbc:h2:mem:ds3
+        username:
+        password:
+        driver-class-name: org.h2.Driver
